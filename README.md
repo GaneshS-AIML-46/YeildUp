@@ -70,7 +70,7 @@ The farmer interacts through a mobile app with voice, text, or images. ASRSeemle
 
 - Indian agricultural knowledge bases
 - Real-time regional weather and crop datasets
-- Open-source speech and vision datasets for model training
+- Open-source speech and vision datasets for model training.
 
 ---
 
