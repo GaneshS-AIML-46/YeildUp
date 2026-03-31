@@ -4,8 +4,17 @@ YieldUp is an innovative AI-powered advisory platform built to provide instant, 
 
 ---
 
+## 🎥 Demo Video
+
+> Watch how YieldUp helps farmers with AI-powered voice, image, and text support.
+
+[Watch Demo Video](https://github.com/GaneshS-AIML-46/YeildUp/blob/main/YeildUp_Demo_video.mp4)
+
+---
+
 ## Table of Contents
 
+- [Demo Video](https://github.com/GaneshS-AIML-46/YeildUp/blob/main/YeildUp_Demo_video.mp4)
 - [Features](#features)
 - [Tech Stack](#tech-stack)
 - [Architecture Overview](#architecture-overview)
@@ -83,4 +92,3 @@ Contributions are welcome! Please open an issue or submit a pull request for bug
 ## License
 
 This project is licensed under the MIT License.
-
